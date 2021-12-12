@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/thatguyintech/Documents/co/chainrunners/contracts/ChainRunnersBaseRenderer.sol": {
-      "lastModificationDate": 1639292142977,
-      "contentHash": "49c94254f015b61cbdd7a58d2a6a8887",
+      "lastModificationDate": 1639293169819,
+      "contentHash": "773e7511585a1a9ea2c01fbc6a472798",
       "sourceName": "contracts/ChainRunnersBaseRenderer.sol",
       "solcConfig": {
         "version": "0.8.4",
@@ -219,8 +219,8 @@
       ]
     },
     "/Users/thatguyintech/Documents/co/chainrunners/contracts/ChainRunners.sol": {
-      "lastModificationDate": 1639290182740,
-      "contentHash": "86802000f9deafa0805065a75b245fcf",
+      "lastModificationDate": 1639292920554,
+      "contentHash": "6960306aa0f4edb16443f5bb216f218c",
       "sourceName": "contracts/ChainRunners.sol",
       "solcConfig": {
         "version": "0.8.4",
