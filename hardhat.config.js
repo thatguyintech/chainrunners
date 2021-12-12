@@ -1,3 +1,4 @@
+require("dotenv").config()
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
@@ -18,4 +19,10 @@ module.exports = {
       }
     },
   },
+  networks: {
+    rinkeby: {
+      url: process.env.RINKEBY_URL,
+      accounts: [process.env.TEST_PRIVATE_KEY],
+    }
+  }
 };
